@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+huggingface_hub
+python-dotenv
